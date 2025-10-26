@@ -1,0 +1,258 @@
+[
+  {
+    "item": {
+      "town": "East Brunswick Township",
+      "category": "Transportation",
+      "name": "East Brunswick Senior Transportation Service",
+      "address": "3 Jean Walling Civic Center, East Brunswick, NJ 08816",
+      "phone": "732-390-6896",
+      "hours": "Mon–Fri 8AM–4PM",
+      "area": [
+        "East Brunswick Township"
+      ],
+      "url": "https://www.eastbrunswick.org/235/Senior-Center",
+      "notes": "Free curb-to-curb rides for residents 60+. Must call ahead; grocery & medical trips in town."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "East Brunswick Township",
+      "category": "Health",
+      "name": "East Brunswick Senior Center Health & Wellness",
+      "address": "3 Jean Walling Civic Center, East Brunswick, NJ 08816",
+      "phone": "732-390-6896",
+      "hours": "Mon–Fri 8AM–4PM",
+      "area": [
+        "East Brunswick Township"
+      ],
+      "url": "https://www.eastbrunswick.org/235/Senior-Center",
+      "notes": "Daily fitness classes, health screenings, and wellness programs for seniors 60+."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "East Brunswick Township",
+      "category": "Meals",
+      "name": "Senior Meals Program (Home & On-site)",
+      "address": "3 Jean Walling Civic Center, East Brunswick, NJ 08816",
+      "phone": "732-390-6896",
+      "hours": "Midday",
+      "area": [
+        "East Brunswick Township"
+      ],
+      "url": "https://www.eastbrunswick.org/235/Senior-Center",
+      "notes": "Home-delivered and congregate lunches; donation optional."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "East Brunswick Township",
+      "category": "Events",
+      "name": "East Brunswick Senior Center Activities",
+      "address": "3 Jean Walling Civic Center, East Brunswick, NJ 08816",
+      "phone": "732-390-6896",
+      "hours": "Mon–Fri 8AM–4PM",
+      "area": [
+        "East Brunswick Township"
+      ],
+      "url": "https://www.eastbrunswick.org/235/Senior-Center",
+      "notes": "Arts, games, trips, lectures, and social events; membership free for residents."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Plainsboro Township",
+      "category": "Transportation",
+      "name": "RideProvide (Greater Mercer TMA)",
+      "address": "15 Roszel Rd Suite 101, Princeton, NJ 08540",
+      "phone": "609-452-5144",
+      "hours": "Mon–Fri 8AM–5PM",
+      "area": [
+        "Plainsboro Township"
+      ],
+      "url": "https://gmtma.org/rideprovide/",
+      "notes": "Door-to-door rides for 65+, membership $40/yr, small per-ride fee."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Plainsboro Township",
+      "category": "Health",
+      "name": "Forever 55 Wellness Program",
+      "address": "641 Plainsboro Rd, Plainsboro, NJ 08536",
+      "phone": "609-799-0909 ext. 1719",
+      "hours": "Mon–Fri 8:30AM–4:30PM",
+      "area": [
+        "Plainsboro Township"
+      ],
+      "url": "https://www.plainsboronj.com/DocumentCenter/View/1666/Senior-Spirit-Newsletter",
+      "notes": "Exercise and wellness classes for 55+ residents through Recreation Department."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Plainsboro Township",
+      "category": "Meals",
+      "name": "Middlesex County Senior Meal Program",
+      "address": "75 Bayard Street, New Brunswick, NJ 08901",
+      "phone": "732-745-3295",
+      "hours": "Weekdays",
+      "area": [
+        "Plainsboro Township"
+      ],
+      "url": "https://www.middlesexcountynj.gov/government/departments/aging",
+      "notes": "Hot lunches delivered to homebound seniors 60+; donation suggested."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Plainsboro Township",
+      "category": "Events",
+      "name": "Fabulous Fridays & Senior Programs",
+      "address": "641 Plainsboro Rd, Plainsboro, NJ 08536",
+      "phone": "609-799-0909 ext. 1719",
+      "hours": "Varies",
+      "area": [
+        "Plainsboro Township"
+      ],
+      "url": "https://www.plainsboronj.com/DocumentCenter/View/1666/Senior-Spirit-Newsletter",
+      "notes": "Monthly social gatherings with games, entertainment, and trips for residents 55+."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Cranbury Township",
+      "category": "Transportation",
+      "name": "Middlesex County RIDE Paratransit",
+      "address": "",
+      "phone": "800-221-3520",
+      "hours": "Mon–Fri",
+      "area": [
+        "Cranbury Township"
+      ],
+      "url": "https://www.middlesexcountynj.gov/ride",
+      "notes": "Free or low-cost door-to-door rides for seniors 60+ and disabled."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Cranbury Township",
+      "category": "Health",
+      "name": "Middlesex County Office on Aging Health Services",
+      "address": "75 Bayard Street, New Brunswick, NJ 08901",
+      "phone": "732-745-3295",
+      "hours": "Mon–Fri 8:30AM–4:15PM",
+      "area": [
+        "Cranbury Township"
+      ],
+      "url": "https://www.middlesexcountynj.gov/aging",
+      "notes": "Health screenings, wellness classes, and Medicare counseling available to all county seniors."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Cranbury Township",
+      "category": "Meals",
+      "name": "Cranbury Senior Center Lunch Program",
+      "address": "23-A North Main St, Cranbury, NJ 08512",
+      "phone": "609-664-3130",
+      "hours": "2nd & 4th Wed 12PM",
+      "area": [
+        "Cranbury Township"
+      ],
+      "url": "https://www.cranburytownship.org/",
+      "notes": "Hot lunch twice monthly; home-delivered meals via Middlesex County available."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Cranbury Township",
+      "category": "Events",
+      "name": "Cranbury Senior Center Meetings & Events",
+      "address": "23-A North Main St, Cranbury, NJ 08512",
+      "phone": "609-664-3130",
+      "hours": "Varies",
+      "area": [
+        "Cranbury Township"
+      ],
+      "url": "https://www.cranburytownship.org/",
+      "notes": "Twice-monthly social gatherings, educational talks, and entertainment."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Monroe Township",
+      "category": "Transportation",
+      "name": "Monroe Township Senior Transportation",
+      "address": "12 Halsey Reed Rd, Monroe Township, NJ 08831",
+      "phone": "609-443-0511",
+      "hours": "Mon–Fri 8:30AM–4:30PM",
+      "area": [
+        "Monroe Township"
+      ],
+      "url": "https://www.monroetwp.com/seniorcenter",
+      "notes": "Free curb-to-curb rides for residents 55+ and disabled; reserve 2 days ahead."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Monroe Township",
+      "category": "Health",
+      "name": "Monroe Township Senior Center Health & Wellness",
+      "address": "12 Halsey Reed Rd, Monroe Township, NJ 08831",
+      "phone": "609-448-7140",
+      "hours": "Mon–Fri 8:30AM–4:30PM",
+      "area": [
+        "Monroe Township"
+      ],
+      "url": "https://www.monroetwp.com/seniorcenter",
+      "notes": "Daily fitness classes, screenings, seminars, and social work support available."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Monroe Township",
+      "category": "Meals",
+      "name": "Monroe Senior Meals Program",
+      "address": "12 Halsey Reed Rd, Monroe Township, NJ 08831",
+      "phone": "609-448-7140",
+      "hours": "Weekdays 11AM–1PM",
+      "area": [
+        "Monroe Township"
+      ],
+      "url": "https://www.monroetwp.com/seniorcenter",
+      "notes": "Hot daily congregate lunch and home-delivered meals via Middlesex County Office on Aging."
+    },
+    "vector": null
+  },
+  {
+    "item": {
+      "town": "Monroe Township",
+      "category": "Events",
+      "name": "Monroe Senior Center Programs & Trips",
+      "address": "12 Halsey Reed Rd, Monroe Township, NJ 08831",
+      "phone": "609-448-7140",
+      "hours": "Mon–Fri 8:30AM–4:30PM",
+      "area": [
+        "Monroe Township"
+      ],
+      "url": "https://www.monroetwp.com/seniorcenter",
+      "notes": "Classes, card games, art, dance, day trips, and special luncheons for 55+."
+    },
+    "vector": null
+  }
+]
